@@ -75,7 +75,7 @@ The recommendation system is divided into several steps:
 <li>movie_dict.pkl: Pickle file containing movie data in dictionary format.</li><li>similarity.pkl: Pickle file containing similarity matrix.</li>
 </ul>
 
-<h2>Acknowledgments</h2>
+<h2>Acknowledgments:</h2>
 <ul>
         <li>The dataset used in this project is from TMDb (The Movie Database).</li>
         <li>Credits to the creators and contributors of the libraries used in this project.</li>
